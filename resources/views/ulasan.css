@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  .contact-form {
+    max-width: 500px;
+    margin: auto;
+  }
+  .form-group {
+    margin-bottom: 20px;
+  }
+  .form-group label {
+    font-weight: bold;
+  }
+  .form-control {
+    border-radius: 0;
+  }
+  .btn-primary {
+    border-radius: 0;
+  }
